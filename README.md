@@ -1,7 +1,9 @@
-#👋 Hi, I’m IpreferV. 
-> You may actually call me just V!
+-👋 Hi, I’m IpreferV. 
+You may actually call me just V!
 
 I am currently a first year Computer Science major. Looking forward to 2027!
+
+> This md is on the works, maybe.
 
 <!---
 IpreferV/IpreferV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
