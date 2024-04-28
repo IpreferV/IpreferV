@@ -1,7 +1,4 @@
-- 👋 Hi, I’m IpreferV. 
-You may actually call me just V!
-
-I am currently a first year Computer Science major. Looking forward to 2027!
+- You may call me V.
 
 > This md is on the works, maybe.
 
